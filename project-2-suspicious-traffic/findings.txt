@@ -1,0 +1,5 @@
+Observed multiple SYN packets targeting different ports, indicating port scanning behavior.
+
+Observed repeated HTTP GET requests to the same destination in a short time, suggesting automated activity.
+
+Observed frequent ICMP echo requests and replies with minimal delay, resembling flood-like traffic patterns.
