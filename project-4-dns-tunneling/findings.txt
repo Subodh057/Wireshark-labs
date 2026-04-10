@@ -1,0 +1,7 @@
+Observed normal DNS queries resolving legitimate domains such as google.com.
+
+Detected multiple DNS queries with similar patterns such as data1.example.com, data2.example.com.
+
+These repeated and structured queries indicate possible data encoding behavior.
+
+Such patterns are commonly associated with DNS tunneling or data exfiltration.
