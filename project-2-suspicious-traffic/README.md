@@ -50,6 +50,13 @@ Observation:
 Repeated ICMP echo requests and replies were observed with short intervals.
 
 ---
+## MITRE ATT&CK Mapping
+
+* Tactic: Reconnaissance (TA0043)
+    * Technique: Network Service Discovery (T1046) (Port scanning)
+    * Technique: Active Scanning (T1595) (HTTP probing)
+* Tactic: Discovery (TA0007)
+    * Technique: Network Service Discovery (T1046) (ICMP probing context)
 
 ## Screenshots
 
